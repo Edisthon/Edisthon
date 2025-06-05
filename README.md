@@ -21,5 +21,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=terancebana)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=terancebana&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Edisthon&theme=dark)](https://git.io/streak-stats)
 
