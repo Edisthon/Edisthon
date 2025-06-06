@@ -21,3 +21,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Edisthon)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Edisthon)](https://git.io/streak-stats)
+
