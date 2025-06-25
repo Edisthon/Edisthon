@@ -23,3 +23,5 @@
   <img src="https://streak-stats.demolab.com/?user=Edisthon" alt="GitHub Streak"/>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Edisthon&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
