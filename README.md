@@ -20,7 +20,7 @@ My focus and strengths include:
 
 - ⚡ **Fun fact:** I’m always eager to learn new skills and contribute positively to society.
 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/himbaza-nshuti-edisthon-10a953262/" title="LinkedIn Profile" target="_blank" rel="noopener noreferrer"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code>
@@ -35,6 +35,7 @@ My focus and strengths include:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edisthon&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -51,9 +52,8 @@ My focus and strengths include:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
 
 
-
+<hr>
 </p>
-
  <h3 align="center">🔥 GitHub Stats</h3>
 
 <p align="center">
