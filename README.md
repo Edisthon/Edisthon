@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Himbaza;Nshuti+Edisthon...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate software engineer from Rwanda</h3>
+<h3 align="center">A passionate Software Engineer from Rwanda 🇷🇼</h3>
 
 I’m currently:
 - 🎓 Completing a **Bachelor of Information Technology (Software Engineering) – 2027**
