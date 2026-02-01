@@ -52,7 +52,6 @@ My focus and strengths include:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
 
 
-<hr>
 </p>
  <h3 align="center">🔥 GitHub Stats</h3>
 
