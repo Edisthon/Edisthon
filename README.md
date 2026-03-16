@@ -50,6 +50,7 @@ My focus and strengths include:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+ <img src="https://devicon-website.vercel.app/api/dart/original.svg" width = "40"/>
 
 
 </p>
