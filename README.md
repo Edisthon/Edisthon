@@ -78,7 +78,7 @@ My focus and strengths include:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       alt="Top languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Edisthon&langs_count=8&layout=compact&theme=react&hide_border=true"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Edisthon&langs_count=8&layout=compact&theme=react&hide_border=true&hide=renderscript"
       height="190"
     />
   </a>
