@@ -20,6 +20,8 @@ My focus and strengths include:
 
 - ⚡ **Fun fact:** I’m always eager to learn new skills and contribute positively to society.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <h5 align="center">
