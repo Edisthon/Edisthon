@@ -19,9 +19,10 @@ My focus and strengths include:
 - 🌐 **Modern web & mobile development**
 
 - ⚡ **Fun fact:** I’m always eager to learn new skills and contribute positively to society.
-<p align="left">
+---
+<p align="center">
   <a href="https://gitfut.com/Edisthon">
-    <img align="right" src="https://gitfut.com/Edisthon.png" alt="My GitFut card" height="280" style="margin-left: 20px; margin-bottom: 20px;"/>
+    <img align="center" src="https://gitfut.com/Edisthon.png" alt="My GitFut card" height="280" style="margin-left: 20px; margin-bottom: 20px;"/>
   </a>
 </p><hr>
 <h3 align="left">Connect with me:</h3>
