@@ -1,21 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Edisthon.Edisthon">
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Himbaza;Nshuti+Edisthon...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate Software Engineer from Rwanda 🇷🇼</h3>
+<h3 align="center">A passionate Software Engineer & Cloud Enthusiast from Rwanda 🇷🇼</h3>
 
 I’m currently:
-- 🎓 Completing a **Bachelor of Information Technology (Software Engineering) – 2027**
+- 🎓 Bachelors in **Information Technology (Software Engineering)**
+- ☁️ Mastering **Cloud Architecture, DevOps, and Infrastructure as Code**
 - 🚀 An **A2SV (Africa to Silicon Valley) G7 Trainee**
 - 🍎 A **Certified Apple Developer** (App Development with Swift)
 
 My focus and strengths include:
+- ☁️ **Cloud Computing & IaC** (AWS: ECS, Fargate, RDS, DynamoDB, Terraform, Serverless)
+- ⚙️ **CI/CD & Configuration Management** (Jenkins, Ansible, Docker, Kubernetes)
+- 📊 **Monitoring, Logging & Security** (Prometheus, Grafana, EFK Stack, Jaeger, OpenTelemetry, AWS CloudWatch/CloudTrail/GuardDuty)
 - 💻 **Java & Object-Oriented Programming**
-- 🗄️ **Database design and management** (MySQL, PostgreSQL, PL/SQL)
+- 🗄️ **Database design and management** (MySQL, PostgreSQL, DynamoDB, PL/SQL)
 - 🌐 **Modern web & mobile development**
 
 - ⚡ **Fun fact:** I’m always eager to learn new skills and contribute positively to society.
@@ -36,31 +39,55 @@ My focus and strengths include:
    target="_blank" rel="noopener noreferrer" title="Email"><img width="22" src="https://cdn.simpleicons.org/gmail/EA4335"> Email</a></code>
 </h5>
 
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edisthon&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
+  <!-- Core Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
+  <img src="https://devicon-website.vercel.app/api/dart/original.svg" width="40"/>
+  <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="40"/>
+  
+  <!-- Web & Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  
+  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+
+  <!-- Monitoring & Logging -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" title="Grafana"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" title="Elasticsearch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="40" title="Kibana"/>
+  <img src="https://cdn.simpleicons.org/fluentbit/4AB8A1" width="40" title="FluentBit"/>
+  <img src="https://cdn.simpleicons.org/jaeger/60D0E4" width="40" title="Jaeger"/>
+  <img src="https://cdn.simpleicons.org/opentelemetry/2596BE" width="40" title="OpenTelemetry"/>
+  
+  <!-- Design -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
- <img src="https://devicon-website.vercel.app/api/dart/original.svg" width = "40"/>
- <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width = "40" />
-
-
-
 </p>
- <h3 align="center">🔥 GitHub Stats</h3>
+
+<h3 align="center">🔥 GitHub Stats</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -71,7 +98,6 @@ My focus and strengths include:
     />
   </a>
   
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       alt="Edisthon's GitHub stats"
