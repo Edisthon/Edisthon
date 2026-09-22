@@ -23,11 +23,7 @@ My focus and strengths include:
 
 - ⚡ **Fun fact:** I’m always eager to learn new skills and contribute positively to society.
 ---
-<p align="center">
-  <a href="https://gitfut.com/Edisthon">
-    <img align="center" src="https://gitfut.com/Edisthon.png" alt="My GitFut card" height="280" style="margin-left: 20px; margin-bottom: 20px;"/>
-  </a>
-</p><hr>
+
 <h3 align="left">Connect with me:</h3>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/himbaza-nshuti-edisthon-10a953262/" title="LinkedIn Profile" target="_blank" rel="noopener noreferrer"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code>
