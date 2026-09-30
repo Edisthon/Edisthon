@@ -19,9 +19,6 @@ My focus and strengths include:
 - 📊 **Monitoring, Logging & Security** (Prometheus, Grafana, EFK Stack, Jaeger, OpenTelemetry, AWS CloudWatch/CloudTrail/GuardDuty)
 - 💻 **Java & Object-Oriented Programming**
 - 🗄️ **Database design and management** (MySQL, PostgreSQL, DynamoDB, PL/SQL)
-- 🌐 **Modern web & mobile development**
-
-- ⚡ **Fun fact:** I’m always eager to learn new skills and contribute positively to society.
 ---
 
 <h3 align="left">Connect with me:</h3>
